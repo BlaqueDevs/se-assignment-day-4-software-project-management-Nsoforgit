@@ -78,8 +78,14 @@ Gantt charts:
 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
-
+Core Issues:
+1) Corruption and misuse of funds: Ensuring transparency and accountability in the disbursement process.
+2) Inefficient distribution: Streamlining the process to reach beneficiaries efficiently.
+3) Lack of oversight: Providing a platform for stakeholders to monitor and evaluate the use of funds.
+Significance:
+1) Beneficiaries: Ensures that funds are used for their intended purposes and have a positive impact on youth development.
+2) Donors: Provides confidence that their donations are being utilized effectively and ethically.
+3) Governments: Enables better oversight and accountability in public programs.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 1) Guides development: Ensures the solution addresses the right issues.
@@ -88,8 +94,26 @@ Gantt charts:
 
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Our platform is a transparent and efficient solution for managing fund disbursement programs. It provides a secure, user-friendly interface for donors, recipients, and administrators to track and monitor the entire process, ensuring accountability and minimizing the risk of fraud.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+* Blockchain technology: Ensures transparency and immutability of transaction records.
+* Smart contracts: Automates and simplifies the disbursement process.
+* Real-time tracking: Allows stakeholders to monitor the progress of funded projects.
+* Impact measurement: Provides tools to assess the effectiveness of the program and measure outcomes.
+
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market Size:-
+The global market for transparency and accountability software is estimated to be worth $505 million USD in 2023.
+This market is driven by increasing concerns about corruption, mismanagement of funds, and the need for greater transparency in public and private organizations.
+Growth Potential:-
+The market is expected to experience significant growth in the coming years, driven by factors such as:
+Increased regulatory pressure: Governments worldwide are implementing stricter regulations to promote transparency and accountability.
+Rising public awareness: The public is becoming increasingly demanding of transparency and ethical behavior from organizations.
+Technological advancements: Innovations like blockchain and AI are enabling new and more effective transparency solutions.
+
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Understanding market trends can:
 1) Identify opportunities: Reveal emerging needs or gaps in the market.
